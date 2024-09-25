@@ -5,5 +5,9 @@ public static void main(String[] Args){
 System.out.println("hello srujan");
 
 System.out.println("hello varun");
+
+System.out.println("hello srujan");
+
+System.out.println("hello varun");
 }
 }
